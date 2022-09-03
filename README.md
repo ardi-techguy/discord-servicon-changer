@@ -18,7 +18,7 @@ discord.py, obtainable with the command "pip install -U discord.py"
 5. Click "Reset Token" and put it in the .env file as shown: "DISCORD_TOKEN=[your token]".
 6. Then, go to OAuth2 -> URL Generator, select Bot, then Manage Server.
 7. Open the generated URL in a new window, and add it to the server you want to change the icon.
-8. Change the image.png with the image you want to add (either PNG or JPEG, maybe GIF but i'm not sure).
+8. Change the image.png with the image you want to add (it has to be PNG, be sure to keep the same name, aka "image.png").
 9. Launch the program with "python bot.py".
 10. In your Discord server, do the command "?changeicon".
 11. voilà
