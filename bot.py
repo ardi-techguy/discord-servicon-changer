@@ -22,10 +22,10 @@ async def on_ready():
     print('------')
 
 @bot.command()
-async def add(ctx, changeicon: str, url: str):
+async def changeicon(ctx):
     """Changes the icon of the server"""
-    with open(url, 'rb') as f:
+    with open("image.png", 'rb') as f:
         icon = f.read()
-    await bot.edit_server(ctx.message.server, icon=icon)
+    await ctx.guild.edit(icon=icon)
 
 bot.run(TOKEN)
