@@ -3,7 +3,7 @@ Change your server pic in Discord when the GUI simply doesn't work.
 
 ### Storytime
 
-Basically, the reason why i've made this bot is just because i had this bug since 2 years where i simply couldnt change the server icon, and i had to change it. And i'm not the kind of guy who likes asking customer service.
+Basically, the reason why i've made this script is just because i had this bug since 2 years where i simply couldnt change the server icon, and i had to change it. And i'm not the kind of guy who likes asking customer service.
 
 ### Requirements
 
